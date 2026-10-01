@@ -1,0 +1,5 @@
+# Maintainer-only. Never published (see _meta/governance.md bake rules).
+_meta/
+
+# OS noise
+.DS_Store
